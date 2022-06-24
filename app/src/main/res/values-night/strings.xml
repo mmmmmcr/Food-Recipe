@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="okay">Okay</string>
+    <string name="all_recipes_removed">All recipes removed.</string>
+    <string name="removed_from_favorites">Removed from Favorites.</string>
+    <string name="overview">Overview</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="back_online">Back online.</string>
+    <string name="no_internet">No Internet</string>
+</resources>
